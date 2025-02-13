@@ -5,16 +5,19 @@ This is the webpage for the doctoral course _Tensors in Quantum Information Theo
 # Schedule 
 There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor of the 3R1 building**, as follows: 
 
-1. Mon, March 17th, 2pm-4pm: *Meet and greet, introduction to tensors, first examples*
-2. Wed, March 19th, 2pm-4pm
-3. Mon, March 24th, 2pm-4pm
-4. Wed, March 26th, 2pm-4pm
-5. Mon, March 31st, 2pm-4pm
-6. Wed, April 2nd, 2pm-4pm
-7. Mon, April 7th, 2pm-4pm
-8. Wed, April 9th, 2pm-4pm
-9. Mon, April 14th, 2pm-4pm
-10. Wed, April 16th, 2pm-4pm
+|N.| Date | Topic | 
+| ---: | :---: | :--- | 
+| 1.  | `Mon, March 17th, 2pm-4pm` | *Meet and greet, introduction to tensors, first examples*
+| 2.  | `Wed, March 19th, 2pm-4pm` | 
+| 3.  | `Mon, March 24th, 2pm-4pm` | 
+| 4.  | `Wed, March 26th, 2pm-4pm` | 
+| 5.  | `Mon, March 31st, 2pm-4pm` | 
+| 6.  | `Wed, April 2nd, 2pm-4pm` | 
+| 7.  | `Mon, April 7th, 2pm-4pm` | 
+| 8.  | `Wed, April 9th, 2pm-4pm` | 
+| 9.  | `Mon, April 14th, 2pm-4pm` | 
+| 10. | `Wed, April 16th, 2pm-4pm` | 
+---
 
 # Lecture notes
 ... coming soon ...
