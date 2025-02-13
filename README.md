@@ -3,7 +3,7 @@
 This is the webpage for the doctoral course _Tensors in Quantum Information Theory_, given in spring 2025 at the [LPT Toulouse](https://lpt.univ-tlse3.fr/en/) by [Ion Nechita](https://ion.nechita.net/). 
 
 # Schedule 
-There will be 10 lecturs of 2h each, as follows: 
+There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor of the 3R1 building**, as follows: 
 
 1. Mon, March 17th, 2pm-4pm
 2. Wed, March 19th, 2pm-4pm
