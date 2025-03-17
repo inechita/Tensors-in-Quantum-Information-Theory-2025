@@ -19,6 +19,30 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | 10. | `Wed, April 16th, 2pm-4pm` | 
 ---
 
+# Topics
+1. Basics of tensors
+2. Graphical notation
+3. Tensor ranks 
+4. Tensors in quantum information theory 
+5. Tensor norms
+6. Tensor decompositions
+7. Tensor eigenvalues
+
+# Projects
+- NP hardness of tensor problems 
+- Undecidable tensor problems 
+- Tensor norms for non local games
+- Tensor norms for entanglement
+- Tensors norms for quantum incompatibility and quantum steering
+- Graphical interactive tensor networks + randomness
+- AlphaTensor
+- Tensor eigenvalues
+- TensorKrowch https://github.com/joserapa98/tensorkrowch
+- Algorithms for injective norm 
+- Algorithms for projective norm
+- Contracting tensor networks 
+- Tensor PCA
+
 # Lecture notes
 ... coming soon ...
 
