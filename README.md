@@ -7,8 +7,8 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 
 |N.| Date | Topic | 
 | ---: | :---: | :--- | 
-| 1.  | `Mon, March 17th, 2pm-4pm` | *Meet and greet, introduction to tensors, first examples*
-| 2.  | `Wed, March 19th, 2pm-4pm` | 
+| 1.  | `Mon, March 17th, 2pm-4pm` | *Meet and greet, introduction to tensors, first examples, basics of random matrix theory*
+| 2.  | `Wed, March 19th, 2pm-4pm` | *Tensors. Graphical notation*
 | 3.  | `Mon, March 24th, 2pm-4pm` | 
 | 4.  | `Wed, March 26th, 2pm-4pm` | 
 | 5.  | `Mon, March 31st, 2pm-4pm` | 
@@ -44,7 +44,21 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 - Tensor PCA
 
 # Lecture notes
-... coming soon ...
+... available as we go, either pdfs or notebooks ...
 
 Here are the notes of a series of 3 lecturs I gave in February about similar topics: [ICTS 2025 - Tensor norms for quantum entanglement](https://ion.nechita.net/assets/pages/teaching/icts-2025-tensor-norms-for-quantum-entanglement.html). 
+
+## Lecture 1
+
+People's tensors
+
+***
+
+We also discussed some problems in random matrix theory where the notion of rank is important. 
+
+We started with the Netflix problem, aka [Matrix completion](https://en.wikipedia.org/wiki/Matrix_completion). The Netflix problem tackles the challenge of predicting missing ratings in a large, sparse user-item matrix by leveraging the assumption that the underlying data is low rank. This low rank assumption implies that there exist only a few latent factors—such as genre preferences, viewing habits, or intrinsic qualities of movies and shows—that largely determine how users rate content. In essence, even though the observable matrix is incomplete and noisy, it is believed that user preferences and item attributes can be effectively captured by a small number of these hidden factors. This compressed representation allows matrix factorization methods to accurately reconstruct the full matrix, making it possible to provide reliable recommendations even from limited data.
+
+We then discussed the basics of [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix), see the notebook. 
+
+
 
