@@ -9,7 +9,7 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | ---: | :---: | :--- | 
 | [1.](#lecture-1)  | `Mon, March 17th, 2pm-4pm` | *Meet and greet, introduction to tensors, first examples, basics of random matrix theory*
 | [2.](#lecture-2)  | `Wed, March 19th, 2pm-4pm` | *Tensors. Graphical notation*
-| 3.  | `Mon, March 24th, 2pm-4pm` | 
+| [3.](#lecture-3)  | `Mon, March 24th, 2pm-4pm` | 
 | 4.  | `Wed, March 26th, 2pm-4pm` | 
 | 5.  | `Mon, March 31st, 2pm-4pm` | 
 | 6.  | `Wed, April 2nd, 2pm-4pm` | 
@@ -54,11 +54,13 @@ Here are the notes of a series of 3 lectures I gave in February about similar to
 
 We discussed some problems in random matrix theory where the notion of rank is important. 
 
-We started with the Netflix problem, aka [matrix completion](https://en.wikipedia.org/wiki/Matrix_completion). The Netflix problem tackles the challenge of predicting missing ratings in a large, sparse user - item matrix by leveraging the assumption that the underlying data is low rank. This low rank assumption implies that there exist only a few latent factors - such as genre preferences, viewing habits, or intrinsic qualities of movies and shows - that largely determine how users rate content. In essence, even though the observable matrix is incomplete and noisy, it is believed that user preferences and item attributes can be effectively captured by a small number of these hidden factors. This compressed representation allows matrix factorization methods to accurately reconstruct the full matrix, making it possible to provide reliable recommendations even from limited data.
+We started with the [Netflix problem](https://www.nytimes.com/2008/11/23/magazine/23Netflix-t.html), aka [matrix completion](https://en.wikipedia.org/wiki/Matrix_completion). The Netflix problem tackles the challenge of predicting missing ratings in a large, sparse user - item matrix by leveraging the assumption that the underlying data is low rank. This low rank assumption implies that there exist only a few latent factors - such as genre preferences, viewing habits, or intrinsic qualities of movies and shows - that largely determine how users rate content. In essence, even though the observable matrix is incomplete and noisy, it is believed that user preferences and item attributes can be effectively captured by a small number of these hidden factors. This compressed representation allows matrix factorization methods to accurately reconstruct the full matrix, making it possible to provide reliable recommendations even from limited data.
 
 We then discussed the basics of [Random Matrix Theory](https://en.wikipedia.org/wiki/Random_matrix), see the [notebook](/assets/basics-of-RMT.ipynb). 
 
 ## Lecture 2
+
+[Handwritten notes](/assets/graphical-notation-for-tensors.pdf)
 
 Formal introduction to tensor products, tensors, tensor contraction. [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation) for tensors. Applications. 
 
@@ -69,5 +71,7 @@ References for the graphical formalism:
 -  J. Biamonte, V. Bergholm - [Tensor Networks in a Nutshell](https://arxiv.org/abs/1708.00006)
 -  J. Taylor - [Graphical tensor notation for interpretability](https://www.lesswrong.com/posts/BQKKQiBmc63fwjDrj/graphical-tensor-notation-for-interpretability) -> discusses Transformers
 
+## Lecture 3
 
+Continue discussin and applying the graphical formalism. Matricizations. The [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition) (here's a [refresher](https://www-users.cse.umn.edu/~lerman/math5467/svd.pdf) on the SVD). 
 
