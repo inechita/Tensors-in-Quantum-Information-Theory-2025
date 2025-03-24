@@ -11,12 +11,12 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | [2.](#lecture-2)  | `Wed, March 19th, 2pm-4pm` | *Tensors. Graphical notation*
 | [3.](#lecture-3)  | `Mon, March 24th, 2pm-4pm` | *Graphical notation in applications. Contracting tensor networks.*
 | [4.](#lecture-4)  | `Wed, March 26th, 2pm-4pm` | *The Singular Value Decomposition*
-| 5.  | `Mon, March 31st, 2pm-4pm` | 
-| 6.  | `Wed, April 2nd, 2pm-4pm` | 
-| 7.  | `Mon, April 7th, 2pm-4pm` | 
-| 8.  | `Wed, April 9th, 2pm-4pm` | 
-| 9.  | `Mon, April 14th, 2pm-4pm` | 
-| 10. | `Wed, April 16th, 2pm-4pm` | 
+| 5.  | `Mon, March 31st, 2pm-4pm` | *Tensor rank*
+| 6.  | `Wed, April 2nd, 2pm-4pm` | *Project choice*
+| 7.  | `Mon, April 7th, 2pm-4pm` | *Tensor norms*
+| 8.  | `Wed, April 9th, 2pm-4pm` | *Porject work*
+| 9.  | `Mon, April 14th, 2pm-4pm` | *Tensor decompositions and eigenvalues*
+| 10. | `Wed, April 16th, 2pm-4pm` | *Finalize projects*
 ---
 
 # Topics
