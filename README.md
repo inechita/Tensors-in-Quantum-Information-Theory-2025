@@ -9,8 +9,8 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | ---: | :---: | :--- | 
 | [1.](#lecture-1)  | `Mon, March 17th, 2pm-4pm` | *Meet and greet, introduction to tensors, first examples, basics of random matrix theory*
 | [2.](#lecture-2)  | `Wed, March 19th, 2pm-4pm` | *Tensors. Graphical notation*
-| [3.](#lecture-3)  | `Mon, March 24th, 2pm-4pm` | 
-| 4.  | `Wed, March 26th, 2pm-4pm` | 
+| [3.](#lecture-3)  | `Mon, March 24th, 2pm-4pm` | *Graphical notation in applications. Contracting tensor networks.*
+| [4.](#lecture-4)  | `Wed, March 26th, 2pm-4pm` | *The Singular Value Decomposition*
 | 5.  | `Mon, March 31st, 2pm-4pm` | 
 | 6.  | `Wed, April 2nd, 2pm-4pm` | 
 | 7.  | `Mon, April 7th, 2pm-4pm` | 
@@ -73,5 +73,9 @@ References for the graphical formalism:
 
 ## Lecture 3
 
-Continue discussin and applying the graphical formalism. Matricizations. The [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition) (here's a [refresher](https://www-users.cse.umn.edu/~lerman/math5467/svd.pdf) on the SVD). 
+Continue discussin and applying the graphical formalism. Vectorization. The computational cost of contracting tenor networks: see [https://arxiv.org/abs/1603.03039] Section 1.4 and, e.g. [https://arxiv.org/abs/quant-ph/0511069] for the important notion of [treewidth](https://en.wikipedia.org/wiki/Treewidth). 
+
+## Lecture 4
+
+The [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition) (here's a [refresher](https://www-users.cse.umn.edu/~lerman/math5467/svd.pdf) on the SVD). 
 
