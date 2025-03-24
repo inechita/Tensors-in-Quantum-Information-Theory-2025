@@ -73,7 +73,7 @@ References for the graphical formalism:
 
 ## Lecture 3
 
-Continue discussin and applying the graphical formalism. Vectorization. The computational cost of contracting tenor networks: see [https://arxiv.org/abs/1603.03039] Section 1.4 and, e.g. [https://arxiv.org/abs/quant-ph/0511069] for the important notion of [treewidth](https://en.wikipedia.org/wiki/Treewidth). 
+Continue discussin and applying the graphical formalism. Vectorization. The computational cost of contracting tenor networks: see Section 1.4 [here](https://arxiv.org/abs/1603.03039) and, e.g. [here](https://arxiv.org/abs/quant-ph/0511069) for the important notion of [treewidth](https://en.wikipedia.org/wiki/Treewidth). 
 
 ## Lecture 4
 
