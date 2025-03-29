@@ -11,7 +11,7 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | [2.](#lecture-2)  | `Wed, March 19th, 2pm-4pm` | *Tensors. Graphical notation*
 | [3.](#lecture-3)  | `Mon, March 24th, 2pm-4pm` | *Graphical notation in applications. Contracting tensor networks.*
 | [4.](#lecture-4)  | `Wed, March 26th, 2pm-4pm` | *The Singular Value Decomposition*
-| 5.  | `Mon, March 31st, 2pm-4pm` | *Tensor rank*
+| [5.](#lecture-5)  | `Mon, March 31st, 2pm-4pm` | *Tensor rank*
 | 6.  | `Wed, April 2nd, 2pm-4pm` | *Project choice*
 | 7.  | `Mon, April 7th, 2pm-4pm` | *Tensor norms*
 | 8.  | `Wed, April 9th, 2pm-4pm` | *Porject work*
@@ -79,5 +79,10 @@ Continue discussing and applying the graphical formalism. Vectorization. The com
 
 ## Lecture 4
 
+[Handwritten notes](/assets/SVD.pdf)
+
 The [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition) (here's a [refresher](https://www-users.cse.umn.edu/~lerman/math5467/svd.pdf) on the SVD). 
 
+## Lecture 5
+
+The [tensor rank](https://en.wikipedia.org/wiki/Tensor_rank_decomposition) is a notion of fundamental importance in the study of tensors. A good reference for QIT related questions is the paper [Tensor rank and entanglement of pure quantum states](https://arxiv.org/abs/1912.06854) by Bruzda, Friedland, and Życzkowski.
