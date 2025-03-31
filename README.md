@@ -12,8 +12,8 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | [3.](#lecture-3)  | `Mon, March 24th, 2pm-4pm` | *Graphical notation in applications. Contracting tensor networks.*
 | [4.](#lecture-4)  | `Wed, March 26th, 2pm-4pm` | *The Singular Value Decomposition*
 | [5.](#lecture-5)  | `Mon, March 31st, 2pm-4pm` | *Tensor rank*
-| 6.  | `Wed, April 2nd, 2pm-4pm` | *Project choice*
-| 7.  | `Mon, April 7th, 2pm-4pm` | *Tensor norms*
+| [6.](#lecture-6)  | `Wed, April 2nd, 2pm-4pm` | *Tensor norms*
+| 7.  | `Mon, April 7th, 2pm-4pm` | *Project choice*
 | 8.  | `Wed, April 9th, 2pm-4pm` | *Porject work*
 | 9.  | `Mon, April 14th, 2pm-4pm` | *Tensor decompositions and eigenvalues*
 | 10. | `Wed, April 16th, 2pm-4pm` | *Finalize projects*
@@ -60,7 +60,7 @@ We then discussed the basics of [Random Matrix Theory](https://en.wikipedia.org/
 
 ## Lecture 2
 
-[Handwritten notes](/assets/graphical-notation-for-tensors.pdf)
+[Handwritten notes](/assets/graphical-notation-for-tensors.pdf).
 
 Formal introduction to tensor products, tensors, tensor contraction. [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation) for tensors. Applications. 
 
@@ -73,16 +73,24 @@ References for the graphical formalism:
 
 ## Lecture 3
 
-[Handwritten notes](/assets/graphical-notation-for-tensors.pdf)
+[Handwritten notes](/assets/graphical-notation-for-tensors.pdf).
 
 Continue discussing and applying the graphical formalism. Vectorization. The computational cost of contracting tenor networks: see Section 1.4 [here](https://arxiv.org/abs/1603.03039) and, e.g. [here](https://arxiv.org/abs/quant-ph/0511069) for the important notion of [treewidth](https://en.wikipedia.org/wiki/Treewidth). 
 
 ## Lecture 4
 
-[Handwritten notes](/assets/SVD.pdf)
+[Handwritten notes](/assets/SVD.pdf).
 
 The [Singular Value Decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition) (here's a [refresher](https://www-users.cse.umn.edu/~lerman/math5467/svd.pdf) on the SVD). 
 
 ## Lecture 5
 
+[Handwritten notes](/assets/Tensor-rank.pdf), see also the [ICST lecture notes](https://ion.nechita.net/assets/pages/teaching/icts-2025-tensor-norms-for-quantum-entanglement.html).
+
 The [tensor rank](https://en.wikipedia.org/wiki/Tensor_rank_decomposition) is a notion of fundamental importance in the study of tensors. A good reference for QIT related questions is the paper [Tensor rank and entanglement of pure quantum states](https://arxiv.org/abs/1912.06854) by Bruzda, Friedland, and Życzkowski.
+
+## Lecture 6
+
+[Handwritten notes](), see also the [ICST lecture notes](https://ion.nechita.net/assets/pages/teaching/icts-2025-tensor-norms-for-quantum-entanglement.html).
+
+
