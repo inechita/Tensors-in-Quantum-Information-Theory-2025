@@ -30,20 +30,24 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 
 # Projects
 Here’s your list converted to a numbered markdown list:
-1.	NP hardness of tensor problems
-2.	Undecidable tensor problems
-3.	Tensor norms for non local games
-4.	Tensor norms for entanglement
-5.	Tensors norms for quantum incompatibility and quantum steering
-6.	Graphical interactive tensor networks + randomness
-7.	AlphaTensor
-8.	Tensor eigenvalues
-9.	TensorKrowch https://github.com/joserapa98/tensorkrowch
-10.	Algorithms for injective norm
-11.	Algorithms for projective norm
-12.	Contracting tensor networks
-13.	Tensor PCA
-14.	The transformer architecture
+1.	Computational complexity 
+  - NP hardness of tensor problems
+  - Undecidable tensor problems
+2. Quantum Information Theory 
+  - Tensor norms for non local games
+  - Tensor norms for entanglement
+  - Tensor norms for quantum incompatibility and quantum steering
+  - Tensor eigenvalues
+  - Algorithms for injective and projective norms
+3. Tensor networks
+  - Contracting tensor networks
+  - TensorKrowch https://github.com/joserapa98/tensorkrowch
+  - Chapters 3- from [Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks](https://arxiv.org/abs/1603.03039)
+4. ML and NN using tensors
+  - AlphaTensor
+  - Tensor PCA
+  - The transformer architecture
+
 
 # Lecture notes
 ... available as we go, either pdfs or notebooks ...
