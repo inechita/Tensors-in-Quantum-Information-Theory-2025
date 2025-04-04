@@ -29,7 +29,7 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 7. Tensor eigenvalues
 
 # Projects
-Here’s your list converted to a numbered markdown list:
+
 1.	Computational complexity 
   - NP hardness of tensor problems
   - Undecidable tensor problems
