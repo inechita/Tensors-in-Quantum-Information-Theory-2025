@@ -95,6 +95,6 @@ The [tensor rank](https://en.wikipedia.org/wiki/Tensor_rank_decomposition) is a 
 
 ## Lecture 6
 
-[Handwritten notes](), see also the [ICST lecture notes](https://ion.nechita.net/assets/pages/teaching/icts-2025-tensor-norms-for-quantum-entanglement.html).
+[Handwritten notes](/assets/Tensor-norms.pdf), see also the [ICST lecture notes](https://ion.nechita.net/assets/pages/teaching/icts-2025-tensor-norms-for-quantum-entanglement.html).
 
 
