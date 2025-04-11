@@ -13,10 +13,10 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | [4.](#lecture-4)  | `Wed, March 26th, 2pm-4pm` | *The Singular Value Decomposition*
 | [5.](#lecture-5)  | `Mon, March 31st, 2pm-4pm` | *Tensor rank*
 | [6.](#lecture-6)  | `Wed, April 2nd, 2pm-4pm` | *Tensor norms*
-| 7.  | `Mon, April 7th, 2pm-4pm` | *Project choice*
-| 8.  | `Wed, April 9th, 2pm-4pm` | *Porject work*
-| 9.  | `Mon, April 14th, 2pm-4pm` | *Tensor decompositions and eigenvalues*
-| 10. | `Wed, April 16th, 2pm-4pm` | *Finalize projects*
+| [7.](#lectures-7-8-9)  | `Mon, April 7th, 2pm-4pm` | *Project choice*
+| [8.](#lectures-7-8-9)  | `Wed, April 9th, 2pm-4pm` | *Project work*
+| [9.](#lectures-7-8-9)  | `Mon, April 14th, 2pm-4pm` | *Project work*
+| 10. | `Wed, April 16th, 2pm-4pm` | *Finalize projects & presentations*
 ---
 
 # Topics
@@ -97,4 +97,9 @@ The [tensor rank](https://en.wikipedia.org/wiki/Tensor_rank_decomposition) is a 
 
 [Handwritten notes](/assets/Tensor-norms.pdf), see also the [ICST lecture notes](https://ion.nechita.net/assets/pages/teaching/icts-2025-tensor-norms-for-quantum-entanglement.html).
 
+## Lectures 7-8-9
 
+Project work on the three selected topics: 
+- TensorKrowch for ground states
+- The transformer architecture
+- Spectra of random tensor networks
