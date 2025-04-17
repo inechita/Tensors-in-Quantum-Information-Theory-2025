@@ -109,6 +109,6 @@ Project work on the three selected topics:
 
 The students presented the projects, here are some relevant links to their amazing work: 
 
-- TensorKrowch for ground states: [GitHub repository](https://github.com/inechita/tensors2025-project-ground-state-tensor-network) containing slides for the presentation as well as python and Mathematica notebooks. 
-- The transformer architecture
-- Spectra of random tensor networks
+- **TensorKrowch for ground states**: [GitHub repository](https://github.com/inechita/tensors2025-project-ground-state-tensor-network) containing slides for the presentation as well as python and Mathematica notebooks. 
+- **The transformer architecture**
+- **Spectra of random tensor networks**
