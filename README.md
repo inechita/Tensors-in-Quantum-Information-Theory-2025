@@ -16,7 +16,7 @@ There will be 10 lecturs of 2h each, taking place in the **room 20, ground floor
 | [7.](#lectures-7-8-9)  | `Mon, April 7th, 2pm-4pm` | *Project choice*
 | [8.](#lectures-7-8-9)  | `Wed, April 9th, 2pm-4pm` | *Project work*
 | [9.](#lectures-7-8-9)  | `Mon, April 14th, 2pm-4pm` | *Project work*
-| 10. | `Wed, April 16th, 2pm-4pm` | *Finalize projects & presentations*
+| [10.](#lecture-10) | `Wed, April 16th, 2pm-4pm` | *Project presentations*
 ---
 
 # Topics
@@ -99,7 +99,16 @@ The [tensor rank](https://en.wikipedia.org/wiki/Tensor_rank_decomposition) is a 
 
 ## Lectures 7-8-9
 
-Project work on the three selected topics: 
+Project work on the three selected topics:
+
 - TensorKrowch for ground states
+- The transformer architecture
+- Spectra of random tensor networks
+
+## Lecture 10
+
+The students presented the projects, here are some relevant links to their amazing work: 
+
+- TensorKrowch for ground states: [GitHub repository](https://github.com/inechita/tensors2025-project-ground-state-tensor-network) containing slides for the presentation as well as python and Mathematica notebooks. 
 - The transformer architecture
 - Spectra of random tensor networks
