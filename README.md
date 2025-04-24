@@ -111,4 +111,4 @@ The students presented the projects, here are some relevant links to their amazi
 
 - **TensorKrowch for ground states**: [GitHub repository](https://github.com/inechita/tensors2025-project-ground-state-tensor-network) containing slides for the presentation as well as python and Mathematica notebooks. 
 - **The transformer architecture**: the students presented the main ingredients of the transformer architecture (in particular the attention mechanism) and provided an [example](/assets/Trasnformer_for_anomaly_detection.ipynb) of anomaly detection with and without attention.
-- **Spectra of random tensor networks**
+- **Spectra of random tensor networks**: [GitHub repository](https://github.com/inechita/tensors2025-project-random-tensor-networks) containing a jupyter notebook for visualizing the singular value distribution of flattenings of tensor network states defined using [TensorKrowch](https://github.com/joserapa98/tensorkrowch).
